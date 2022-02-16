@@ -9,7 +9,6 @@ export const portfolios = {
       demo: "",
       source: "https://github.com/KumarGudipalli/medplusmart.com",
       tools: [  "HTML", "CSS", "javaScript"],
-      deployed:""
     },
     {
       type: "featured",
@@ -20,7 +19,6 @@ export const portfolios = {
       demo: "",
       source: "https://github.com/KumarGudipalli/cult-fit-clone",
       tools: ["Axios", "HTML", "CSS", "MongoDB" , "JavaScript"],
-      deployed:"https://cult-fit-clone-ruddy.vercel.app/"
     },
   ],
  /*  Others: [
