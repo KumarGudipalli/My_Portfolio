@@ -6,7 +6,7 @@ export const portfolios = {
       image: require("./image/medplusmart.png"),
       description:
         "MedPlus is an Indian pharmacy retailer ",
-      demo: "",
+      demo: "https://medplusmartclone.000webhostapp.com/",
       source: "https://github.com/KumarGudipalli/medplusmart.com",
       tools: [  "HTML", "CSS", "javaScript"],
     },
@@ -16,7 +16,7 @@ export const portfolios = {
       image: require("./image/cult-fit.png"),
       description:
         "health and fitness company offering digital and offline experiences across fitness, nutrition, and mental well-being.",
-      demo: "",
+      demo: "https://cult-fit-clone-ruddy.vercel.app/",
       source: "https://github.com/KumarGudipalli/cult-fit-clone",
       tools: ["Axios", "HTML", "CSS", "MongoDB" , "JavaScript"],
     },
