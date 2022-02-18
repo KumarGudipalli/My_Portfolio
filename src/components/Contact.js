@@ -13,9 +13,6 @@ const Contact = () => {
           <div className="contact-details">
             <ul>
               <li>
-                <h5>
-                <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-                </h5>
               </li>
               <li>
                 <h5 style={{marginLeft: "2px"}}>
@@ -36,7 +33,7 @@ const Contact = () => {
               <li>
                 <h5>
                   <a target="_blank"
-                   href="">
+                   href="https://www.google.com/maps/place/Kuchipudi+Function+Hall/@16.2627703,80.9212634,16z/data=!4m5!3m4!1s0x0:0x94840b6a963ea078!8m2!3d16.2591843!4d80.9173734">
                 <img src="https://img.icons8.com/external-justicon-flat-justicon/48/4a90e2/external-gps-map-and-location-justicon-flat-justicon.png"/>
                 </a>
                 </h5>
