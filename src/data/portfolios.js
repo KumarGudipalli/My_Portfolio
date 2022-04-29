@@ -2,6 +2,15 @@ export const portfolios = {
   Web: [
     {
       type: "featured",
+      name: "POS-Store",
+      image: require("./image/Pos-store.png"),
+      description:"A point of sale (POS) is a place where a customer executes the payment for goods or services",
+      demo: "",
+      source: "https://github.com/kumargudipalli088/shoppin-mart",
+      tools: [ "React" ,"MongoDb","express","Redux"],
+    },
+    {
+      type: "featured",
       name: "twitter ",
       image: require("./image/twitter.png"),
       description:
@@ -10,6 +19,8 @@ export const portfolios = {
       source: "https://github.com/KumarGudipalli/twitter-clone",
       tools: ["Axios", "React" ,"React-router-dom","Firebase", "styled-Components"],
     },
+
+
     {
       type: "featured",
       name: "Tesla-Clone",
@@ -29,15 +40,6 @@ export const portfolios = {
       source: "https://github.com/KumarGudipalli/Todo-list",
       tools: ["React","Redux"],
     },
-    // {
-    //   type: "featured",
-    //   name: "POS-Store",
-    //   image: require("./image/Pos-store.png"),
-    //   description:"",
-    //   demo: "",
-    //   source: "",
-    //   tools: ["Axios", "React" ,"MongoDb","express","Redux"],
-    // },
 
     {
       type: "featured",

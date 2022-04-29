@@ -20,7 +20,7 @@ const Intro = () => {
             </ul>
             <div className="action">
               <Button
-                link="https://drive.google.com/file/d/14wXTqedlrvR-Tb6LnC6dTBAjiNeXIXsj/view?usp=sharing"
+                link="https://drive.google.com/file/d/1u3AAmA4ZoEgLEt-4r20bwoJfOdWWOOxb/view?usp=sharing"
                 target="__blank"
                 bgColor="#00cf5d"
                 title="Get Resume"
